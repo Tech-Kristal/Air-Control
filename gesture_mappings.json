@@ -1,0 +1,9 @@
+{
+  "OPEN_PALM": "switch_app",
+  "FIST": "close_tab",
+  "THUMBS_UP": "close_tab",
+  "PEACE": "next_tab",
+  "THREE_FINGERS": "previous_tab",
+  "POINT": "none",
+  "PINCH": "none"
+}
