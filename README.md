@@ -96,7 +96,7 @@ AirControl follows a computer-vision-based interaction pipeline:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Tech-Kristal/Air-Control
 cd AirControl-OS
 ```
 
